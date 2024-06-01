@@ -1,1 +1,1 @@
-极简生活博客<a href="https://kazelife.com">kazelife.com</a>
+kaze的个人博客<a href="https://kazelife.com">kazelife.com</a>
